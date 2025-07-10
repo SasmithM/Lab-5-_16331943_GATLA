@@ -1,0 +1,9 @@
+Rejected Record: Invalid Student ID or answer length in line: 104833    AEEDDCEAABCCACBBB
+Rejected Record: Invalid Student ID or answer length in line: 12  17 BCEAEEDDCEAACDAADDBB
+Rejected Record: Invalid Student ID or answer length in line: 117192 BCEAEEDDCEAAEAECE
+Rejected Record: Invalid Student ID or answer length in line: AA3850 BCEAEEDDCEAABEC BDCB
+Rejected Record: Invalid Student ID or answer length in line: ERROR1 BCEAEEDDCEAADAACABAB
+Rejected Record: Invalid Student ID or answer length in line: 116337  CEAEEDDCEAA DEAEDBB
+Rejected Record: Invalid Student ID or answer length in line: 111064    AEEDDCEAADCDBA DB
+Rejected Record: Invalid Student ID or answer length in line: 124901   AABBBBCCCCAAAABBBB
+Rejected Record: Invalid Student ID or answer length in line: ERROR2 BCEAEEDDCEAAD DEAEEB
