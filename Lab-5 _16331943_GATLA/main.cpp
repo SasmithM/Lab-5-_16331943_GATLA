@@ -1,7 +1,7 @@
 #include "student.h"
 
 int main() {
-    ifstream* inputFilePtr = new ifstream("C:\\Users\\User\\source\\repos\\LAB 5\\student.txt");
+    ifstream* inputFilePtr = new ifstream("student.txt");
     ofstream* errorFilePtr = new ofstream("error.txt");
     ofstream* reportFilePtr = new ofstream("report.txt");
 
